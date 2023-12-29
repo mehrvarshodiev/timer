@@ -1,4 +1,4 @@
-# Timer by using HTML, CSS and Js
+# Timer using HTML, CSS and JS
 
 This timer created by Mehrvar.
 
